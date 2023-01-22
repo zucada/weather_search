@@ -109,4 +109,6 @@ suggestionButtons.forEach((btn) => {
   
       showWeatherData(city);
     });
+    
+     container.style.backgroundColor="#63676c53"
   });
