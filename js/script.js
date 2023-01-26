@@ -1,7 +1,7 @@
 // Variáveis e seleção de elemento
 const apiKey =  "83363097aa212914c29bfae4733e1444";
 const apiCountryURL = "https://flagsapi.com/BR/flat/64.png";
-const apiUnsplash = "https://source.unsplash.com/1600x900/?";
+const apiUnsplash = "https://source.unsplash.com/1920x1080/?";
 
 const cityInput = document.querySelector("#city-input");
 const searchBtn = document.querySelector("#search");
